@@ -2,8 +2,9 @@
 package main
 
 import (
+	"main/handlers"
+
 	"github.com/gin-gonic/gin"
-	"yatte-mi/handlers"
 )
 
 func main() {
